@@ -1,6 +1,6 @@
 # Fake Product Identification using Barcode Technology
 
-## 📌 Project Overview
+##  Project Overview
 This project is designed to identify fake or counterfeit products using barcode technology. It helps users verify product authenticity by scanning and validating barcode data.
 
 ---
