@@ -29,12 +29,12 @@ This project is designed to identify fake or counterfeit products using barcode 
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Clone the repository: https://github.com/nishanaa71-oss/Fake-Product-Identification-using-Barcode-Technology.git
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
 
@@ -54,6 +54,6 @@ Final Year B.Tech Computer Science Student
 
 ---
 
-## 📌 Project Status
+##  Project Status
  Completed  
  Improvements in progress
